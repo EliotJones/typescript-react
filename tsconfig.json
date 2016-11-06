@@ -1,0 +1,9 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "jsx": "react",
+    "sourceMap": true,
+    "target": "es5",
+    "typeRoots": [ "node_modules/@types" ]
+  }
+}

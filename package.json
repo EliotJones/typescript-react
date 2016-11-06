@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "@types/classnames": "0.0.31",
+    "classnames": "^2.2.5",
+    "director": "^1.2.0",
+    "react": "15.3.2",
+    "react-dom": "^15.3.2",
+    "todomvc-app-css": "^2.0.0"
+  }
+}
