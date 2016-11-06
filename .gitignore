@@ -6,7 +6,9 @@
 *.user
 *.sln.docstates
 *.js.map
-*.js
+Scripts/**/*.js
+**/wwwroot/js/*.js
+**/js/*.js
 
 # Build results
 [Dd]ebug/

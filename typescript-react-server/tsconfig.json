@@ -5,10 +5,11 @@
     "removeComments": false,
     "sourceMap": true,
     "target": "es5",
+    "module": "commonjs",
     "jsx": "react"
   },
-  "exclude": [
-    "node_modules",
-    "wwwroot"
+  "files": [
+    "scripts/home/home.tsx"
   ]
 }
+
