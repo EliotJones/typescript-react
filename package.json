@@ -1,7 +1,12 @@
 {
+  "name": "todo-mvc",
+  "version": "0.0.1",
+  "description": "todo MVC TypeScript and React",
   "private": true,
   "dependencies": {
     "@types/classnames": "0.0.31",
+    "@types/react": "^0.14.44",
+    "@types/react-dom": "^0.14.18",
     "classnames": "^2.2.5",
     "director": "^1.2.0",
     "react": "15.3.2",
